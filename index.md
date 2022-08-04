@@ -14,8 +14,10 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+*uno
+*dos
+*trece
 
 <br>
 
-{% include 05-emphasis.md %}
+_**Alright**_
