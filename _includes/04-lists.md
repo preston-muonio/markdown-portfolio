@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Skateboarding
+- Snowboarding
+- Skimboarding
+- surfing 
+- swimming
