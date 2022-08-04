@@ -1,0 +1,5 @@
+- Skateboarding
+- Snowboarding
+- Skimboarding
+- surfing 
+- swimming
