@@ -2,15 +2,15 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
 <br>
-
-{% include 02-image.md %}
-
+![Interesting thing](https://github.com)
+![Interesting thing](https://github.com)
 <br>
-
+![Interesting thing](https://github.com)
+![Interesting thing](https://github.com)
+![Interesting thing](https://github.com)
 {% include 03-links.md %}
+
 
 <br>
 
@@ -21,3 +21,8 @@ layout: default
 <br>
 
 _**Alright**_
+
+
+## This is my Interesting New Portfolio!
+#### - [ ] can this box be checked?
+- [ ] is this box different?
